@@ -41,15 +41,8 @@
 
 ---
 
-## 🏅 Competitive Programming (LeetCode)
-<p align="center">
-  <a href="https://leetcode.com/progress/"><img src="https://leetcard.jacoblin.cool/lp7074?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Progress Card"/></a>
-</p>
-
----
-
 ## 📊 GitHub Stats
-<a href="https://github.com/lokesh-poreddy">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-poreddy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Most%20Used%20Languages&card_width=350">
   <img width="325" align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-poreddy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Most%20Used%20Languages&card_width=350" 
        alt="Top Languages"/>
@@ -57,7 +50,7 @@
 
 ---
 
-## 🟡 Live Badges & Animations
+## Leetcode Info
 <div align="center">
   <img alt="LeetCode Progress 2024 GIF" height="200" src="https://camo.githubusercontent.com/cb39c38b4ea0fa4103114ca54ceea07d7d36bc758e0721ac0e9b20d1a7f63d6e/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f6261646765732f323032342f6769662f323032342d30332e676966" />
   
