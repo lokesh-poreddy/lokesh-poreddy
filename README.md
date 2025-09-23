@@ -44,16 +44,10 @@
 ## 🏅 Competitive Programming (LeetCode)
 
 <p align="center">
-  <a href="https://leetcode.com/progress/">
+  <a href="https://leetcode.com/u/lokesh-poreddy/">
     <img src="https://leetcard.jacoblin.cool/progress?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Progress Card"/>
   </a>
 </p>
-
-<p align="center">
-  <b>Total Solved:</b> 47 &nbsp;|&nbsp; <b>Beats:</b> 59.8% <br/>
-  <b>Easy:</b> 8 &nbsp;|&nbsp; <b>Medium:</b> 29 &nbsp;|&nbsp; <b>Hard:</b> 10
-</p>
-
 
 ---
 
