@@ -36,9 +36,6 @@
 
 ## 🏆 Achievements & Certifications
 - 🏅 **HackerRank Badges** → [View Profile](https://www.hackerrank.com/profile/lp7074)  
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/lp7074"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/hackerrank-badges.png" height="120"/></a>
-</p>
 
 - 📜 **Digital Twin Certificate** → [View on LinkedIn](https://www.linkedin.com/in/lokesh-reddy-poreddy-4a7a61275/)  
 
