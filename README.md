@@ -48,9 +48,10 @@
 <p align="center">
   <a href="https://leetcode.com/progress/"><img src="https://leetcard.jacoblin.cool/progress?theme=dark&font=Nunito&ext=heatmap" /></a>
 </p>
+
 <p align="center">
-  <b>Total Solved:</b> 47 · <b>Beats:</b> 59.8%<br/>
-  <b>Easy:</b> 8 · <b>Medium:</b> 29 · <b>Hard:</b> 10
+  <b>Total Solved:</b> 47 &nbsp;|&nbsp; <b>Beats:</b> 59.8%<br/>
+  <b>Easy:</b> 8 &nbsp;|&nbsp; <b>Medium:</b> 29 &nbsp;|&nbsp; <b>Hard:</b> 10
 </p>
 
 ---
