@@ -49,11 +49,11 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=lp7074&count_private=true&theme=react&border_radius=10"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=lp7074&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lp7074&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats"/>
-</div>
+<a href="https://github.com/lokesh-poreddy">
+  <img width="325" align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-poreddy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Most%20Used%20Languages&card_width=350" 
+       alt="Top Languages"/>
+</a>
 
 ---
 
