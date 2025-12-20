@@ -6,7 +6,6 @@
 
 ## 🚀 About Me
 - 💻 Passionate about **Software Engineering, Web3, and AI**
-- 🧑‍💻 Practicing **DSA on LeetCode & HackerRank**
 - 🌱 Currently exploring **System Design & Scalable Applications**
 - 📫 Reach me at: **p.krishnalokeshreddy@gmail.com**
 
