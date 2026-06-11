@@ -51,7 +51,8 @@
 
 ## Leetcode Info
 <div align="center">
-  <img alt="LeetCode Progress 2024 GIF" height="200" src="https://camo.githubusercontent.com/cb39c38b4ea0fa4103114ca54ceea07d7d36bc758e0721ac0e9b20d1a7f63d6e/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f6261646765732f323032342f6769662f323032342d30332e676966" />
+  <img alt="LeetCode 50 Days Badge" width="150" src="https://assets.leetcode.com/static_assets/others/50.gif" />
+</div>
   
 ---
 
