@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Poreddy+Lokesh+Reddy;Full+Stack+Developer;Web3+%26+AI+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Poreddy+Lokesh+Reddy;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Passionate about **Software Engineering, Web3, and AI**
+- 💻 Passionate about **Software Engineering, and AI**
 - 🌱 Currently exploring **System Design & Scalable Applications**
 - 📫 Reach me at: **p.krishnalokeshreddy@gmail.com**
 
@@ -26,7 +26,6 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </marquee>
 </div>
@@ -36,7 +35,7 @@
 ## 🏆 Achievements & Certifications
 - 🏅 **HackerRank Badges** → [View Profile](https://www.hackerrank.com/profile/lp7074)  
 
-- 📜 **Digital Twin Certificate** → [View on LinkedIn](https://www.linkedin.com/in/lokesh-reddy-poreddy-4a7a61275/)  
+- 📜 **Digital Twin Certificate** → [View on LinkedIn](https://www.linkedin.com/posts/poreddy-lokesh-reddy-4a7a61275_activity-7326810377256611840-9jw_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAENA938B4O_TOZM56qAsO-GWySuR8ze52yQ)  
 
 ---
 
