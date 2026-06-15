@@ -40,7 +40,10 @@
 
 ## AWS
 <div align="center">
- <img alt="LeetCode 50 Days Badge" width="150" src="https://lokesh-poreddy.github.io/badge/" />
+  <a href="https://lokesh-poreddy.github.io/badge/">
+    <img alt="AWS MLE Badge (click for live)" width="150"
+         src="https://raw.githubusercontent.com/lokesh-poreddy/lokesh-poreddy/main/assets/aws-badge.gif" />
+  </a>
 </div>
 
 
