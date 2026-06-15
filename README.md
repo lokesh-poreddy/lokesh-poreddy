@@ -36,19 +36,19 @@
 
 - 🏅 **HackerRank Badges** → [View Profile](https://www.hackerrank.com/profile/lp7074)
 
-- ☁️ **AWS Certified Machine Learning Engineer – Associate** → [View 3D Badge](https://lokesh-poreddy.github.io/badge/)
-
 - 📜 **Digital Twin Certificate** → [View on LinkedIn](https://www.linkedin.com/posts/poreddy-lokesh-reddy-4a7a61275_activity-7326810377256611840-9jw_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAENA938B4O_TOZM56qAsO-GWySuR8ze52yQ)
 
+- ## AWS Certification
 <div align="center">
   <a href="https://lokesh-poreddy.github.io/badge/">
     <img
-      width="180"
       alt="AWS Certified Machine Learning Engineer Associate"
-      src="https://raw.githubusercontent.com/lokesh-poreddy/lokesh-poreddy/main/assets/aws_badge.gif"
+      width="150"
+      src="https://img.shields.io/badge/AWS%20ML%20Engineer-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
     />
   </a>
 </div>
+
 
 ---
 
