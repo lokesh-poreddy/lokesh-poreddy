@@ -4,14 +4,14 @@
 
 ---
 
-## 🚀 About Me
-- 💻 Passionate about **Software Engineering, and AI**
-- 🌱 Currently exploring **System Design & Scalable Applications**
-- 📫 Reach me at: **p.krishnalokeshreddy@gmail.com**
+##  About Me
+- Passionate about **Software Engineering, and AI**
+- Currently exploring **System Design & Scalable Applications**
+- Reach me at: **p.krishnalokeshreddy@gmail.com**
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6" width="100%">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -32,7 +32,7 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
 - **HackerRank Badges** → [View Profile](https://www.hackerrank.com/profile/lp7074)
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-poreddy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Most%20Used%20Languages&card_width=350">
   <img width="325" align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-poreddy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Most%20Used%20Languages&card_width=350" 
@@ -68,7 +68,7 @@
   
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/lokesh-reddy-poreddy-4a7a61275/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://leetcode.com/progress/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/></a>
