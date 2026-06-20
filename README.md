@@ -31,6 +31,11 @@
 </div>
 
 ---
+##  Live Portfolio
+Visit portfolio at: **https://lokesh-poreddy.github.io/**
+
+Static HTML preview (served by GitHub Pages): https://lokesh-poreddy.github.io/index.html
+---
 
 ## Achievements & Certifications
 
