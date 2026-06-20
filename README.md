@@ -31,7 +31,6 @@
 </div>
 
 ---
-##  Live Portfolio
 Visit static portfolio at: **https://lokesh-poreddy.github.io/**
 ---
 
