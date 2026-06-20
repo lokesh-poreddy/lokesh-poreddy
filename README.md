@@ -32,9 +32,7 @@
 
 ---
 ##  Live Portfolio
-Visit portfolio at: **https://lokesh-poreddy.github.io/**
-
-Static HTML preview (served by GitHub Pages): https://lokesh-poreddy.github.io/index.html
+Visit static portfolio at: **https://lokesh-poreddy.github.io/**
 ---
 
 ## Achievements & Certifications
