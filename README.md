@@ -4,12 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lokesh-poreddy&label=Profile%20Views&color=0D6EFD&style=plastic" />
-
-  <a href="https://github.com/lokesh-poreddy?tab=followers">
-    <img src="https://img.shields.io/github/followers/lokesh-poreddy?label=Followers&style=plastic&color=0D6EFD" />
-  </a>
-
-  <img src="https://img.shields.io/github/stars/lokesh-poreddy?affiliations=OWNER&label=Stars&style=plastic&color=0D6EFD" />
 </p>
 
 ---
