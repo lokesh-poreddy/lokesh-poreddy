@@ -2,6 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Poreddy+Lokesh+Reddy;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lokesh-poreddy&label=Profile%20Views&color=0D6EFD&style=plastic" />
+
+  <a href="https://github.com/lokesh-poreddy?tab=followers">
+    <img src="https://img.shields.io/github/followers/lokesh-poreddy?label=Followers&style=plastic&color=0D6EFD" />
+  </a>
+
+  <img src="https://img.shields.io/github/stars/lokesh-poreddy?affiliations=OWNER&label=Stars&style=plastic&color=0D6EFD" />
+</p>
+
 ---
 
 ##  About Me
